@@ -1,0 +1,2 @@
+Up87 , Down83 , Left65 , Right68 , Bomb32 , Barrier66 ,
+Up38 , Down40 , Left37 , Right39, Bomb10 , Barrier16 ,
